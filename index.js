@@ -1,1 +1,3 @@
-a;
+NO FUNCIONA LA SYNC , ACA ESTA EL LINK (YA FUNCIONO PERO TUVE QUE TOCAR COSAS EN LA CONSOLA DE GIT) . 😫
+
+https://github.com/LilDie/NuevoRepoTareaExpress
